@@ -1,2 +1,2 @@
-# Ship-Detection-in-SAR-Images
-blah
+# Suhora Internship Task - Data Analysis for Ship Detection with HRSID 
+
