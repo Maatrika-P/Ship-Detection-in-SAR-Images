@@ -14,7 +14,7 @@ For performing object detection, we set the `config.yaml` to the dataset paths, 
 - Initial Learning Rate: `lr0=0.001`
 - Batch Size: `batch=8`
 
-It took around 70 minutes to train the model, where a single epoch took around 1:30 minutes. The early stopping callback triggered at the 42nd epoch where there was no improvement over the last 10 epochs. The best results were observed at epoch 31 with the mAP score being 0.905.
+It took around 70 minutes to train the model, where a single epoch took approximately 1:30 minutes. The early stopping callback triggered at the 42nd epoch where there was no improvement over the last 10 epochs. The best results were observed at epoch 31 with the mAP score being 0.905.
 
 ## Outputs 📸
 After training the model, here are the results from some sample validation images:
